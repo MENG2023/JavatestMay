@@ -1,0 +1,6 @@
+字符串拆分
+可以将一个完整的字符串按照指定的分隔符划分为若干个子字符串
+可以用方法如下:
+  方法                                                                          功能
+String[]split(String regex)       将字符串全部拆分
+String[] split(String regex,int limit)  将字符串以指定的格式,拆分为limit组
